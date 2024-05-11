@@ -29,3 +29,10 @@ PiHubCommand is a voice-controlled interface for Raspberry Pi that allows users 
    sudo apt-get update
    sudo apt-get install python3-pip
    pip3 install RPi.GPIO speech_recognition gTTS pygame
+   pip3 install speech recognition
+   pip3 install gtts
+   pip3 install subproccess
+
+## Code
+
+1. **Copy and Run**: Take the code called prototype.py and run it with the Microphone and speakers connected. 
