@@ -39,7 +39,7 @@ PiHubCommand is a voice-controlled interface for Raspberry Pi that allows users 
    pip3 install speech recognition
    pip3 install gtts
    pip3 install subproccess
-3.**Install IDE**: You can install some IDE to programming, but you can use the ones pre-installed in the OS.
+  3.**Install IDE**: You can install some IDE to programming, but you can use the ones pre-installed in the OS.
 
 ### Code
 
