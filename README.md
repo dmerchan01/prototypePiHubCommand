@@ -12,6 +12,11 @@ PiHubCommand is a voice-controlled interface for Raspberry Pi that allows users 
 - LEDs, resistors, and wires
 - Breadboard
 
+##Connections
+
+1. Connect the DC motor with a 2N2222 NPN transistor to an external 9 volt power supply. From the base of the transistor, take a cable to control the digital signal and connect it to the GPIO 12 port of the Raspberry Pi 4.
+2. Connect the LED to the digital port 3 GPIO of the Raspberry Pi 4.
+
 ### Software
 - Raspbian OS
 - Python 3.x
